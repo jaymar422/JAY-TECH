@@ -1,2 +1,2 @@
 # JAY-TECH
-Enjoy with us don't forget to fork and 🌟 our repo
+git clone <https://github.com/JawadYT36/KHAN-MD.git>
